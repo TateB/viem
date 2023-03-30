@@ -9,3 +9,9 @@ export {
   type GetEnsNameParameters,
   type GetEnsNameReturnType,
 } from './getEnsName'
+
+export {
+  getEnsText,
+  type GetEnsTextParameters,
+  type GetEnsTextReturnType,
+} from './getEnsText'
